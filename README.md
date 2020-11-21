@@ -6,4 +6,4 @@ Esta é a segunda atividade do curso de especialização em **Desenvolvimento We
 
 Maiores informações estão no vídeo abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_-Ptzi9DCoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Assista o vídeo](http://img.youtube.com/vi/_-Ptzi9DCoQ/0.jpg)](http://www.youtube.com/watch?v=_-Ptzi9DCoQ "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 2.")
