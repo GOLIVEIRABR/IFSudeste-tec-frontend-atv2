@@ -6,4 +6,4 @@ Esta é a segunda atividade do curso de especialização em **Desenvolvimento We
 
 Maiores informações estão no vídeo abaixo:
 
-https://youtu.be/_-Ptzi9DCoQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-Ptzi9DCoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
