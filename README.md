@@ -3,7 +3,7 @@
 
 ### Descrição
 
-Esta é a segunda atividade do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar as primeiras características do **React JS** como a criação de componentes, funcionamento básico e o uso de **props** e **states**.
+Esta é a segunda atividade da disciplina de **Tecnologias Frontend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar as primeiras características do **React JS** como a criação de componentes, funcionamento básico e o uso de **props** e **states**.
 
 Maiores informações estão no vídeo abaixo:
 
